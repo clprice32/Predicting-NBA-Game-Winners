@@ -24,4 +24,5 @@ Predicting NBA Game Winners.ipynb (Jupyter Notebook)
 
 ## Additional Resources
 
-Recording of lecture: https://youtu.be/k7hSD_-gWMw
+Recording of lecture: https://youtu.be/k7hSD_-gWMw <br>
+The dataset for this project was retrieved from: www.basketball-reference.com
