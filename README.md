@@ -12,7 +12,8 @@ sci-kit learn
 
 ## Models Used
 
-Decision Trees | Random Forest
+Decision Trees <br>
+Random Forest
 
 ## What's In This Repository?
 
