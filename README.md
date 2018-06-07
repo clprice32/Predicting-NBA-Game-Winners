@@ -4,9 +4,11 @@
 
 This project is based on a lecture by Robert Layton given at PyCon Australia, 2015. The goal is to build predictive models that determines whether the home team will win an NBA regular season basketball game, then evaluate the how well the models perform. The data used is from the 2012-13, 2013-14, and 2014-15 NBA seasons.
 
-## Tools Used
+## Python Libraries Used
 
-Python | Numpy | Pandas | sklearn
+Numpy <br>
+Pandas<br>
+sci-kit learn
 
 ## Models Used
 
